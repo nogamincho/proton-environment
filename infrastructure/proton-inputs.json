@@ -1,0 +1,9 @@
+{
+    "environment": {
+      "name": "myenv",
+      "inputs": {
+        "my_sample_input": "10.0.0.0/16",
+        "my_other_sample_input": "11.0.0.0/16"
+      }
+    }
+  }
